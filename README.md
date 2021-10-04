@@ -1,6 +1,6 @@
 ### Armin Khoshnamak 🐙
 
-
+<p>
 [![Gmail Badge](https://img.shields.io/badge/-armin.khoshnamk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:armin.khoshnamak@gmail.com)](mailto:armin.khoshnamak@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-armin%20khoshnamak-0072b1?style=flat&logo=Linkedin&logoColor=white&link=armin-khoshnamak)](https://www.linkedin.com/in/armin-khoshnamak-13b276195/) 
 </p>
