@@ -31,5 +31,4 @@ Curious, Fast-learner, Imaginative and good with searching
 - 👯 I’m looking for Full time work as develper/Engineer
 - 🤔 I’m looking for help with ...
 - 😄 In my free times i like to watch movies play Games , walk and listen to Music 
-- ⚡ Live Fast - Love Hard 
 
