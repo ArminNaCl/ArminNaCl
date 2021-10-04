@@ -10,9 +10,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminnacl&layout=compact)](https://github.com/arminnacl/github-readme-stats)
 
 ## Skills
- #### Python :
+ ## Python :
  	OPP, Decorator, Algorithm Mapping, Design Patterns, Flask, unitest, Script
-#### Django  :
+### Django  :
 	CBV, MVT, ORM, REST, DRF,
 #### Database :
 	Basic Knowledge ,ERD, MongoDB, MySQL, POSTGRESQL
