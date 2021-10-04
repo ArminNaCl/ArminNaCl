@@ -10,19 +10,19 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminnacl&layout=compact)](https://github.com/arminnacl/github-readme-stats)
 
 ## Skills
- ##### Python :
- 	OPP, Decorator, Algorithm Mapping, Design Patterns, Flask, unitest, Script
-### Django  :
-	CBV, MVT, ORM, REST, DRF,
+ #### Python :
+ OPP, Decorator, Algorithm Mapping, Design Patterns, Flask, unitest, Script
+#### Django  :
+CBV, MVT, ORM, REST, DRF,
 #### Database :
-	Basic Knowledge ,ERD, MongoDB, MySQL, POSTGRESQL
+Basic Knowledge ,ERD, MongoDB, MySQL, POSTGRESQL
 #### FrontEnd : 
-	Familiar With Tools and Base Like HTML,CSS,Javascript , Bootstrap and AJAX
+Familiar With Tools and Base Like HTML,CSS,Javascript , Bootstrap and AJAX
 #### Other :
-	- Network Fundamental , Linux(Debian and Main Commands) ,Git and Github, 
+- Network Fundamental , Linux(Debian and Main Commands) ,Git and Github, 
 	PHP and Laravel , 
 #### Non Technical Skills:
-	Curious, Fast-learner, Imaginative and good with searching 
+Curious, Fast-learner, Imaginative and good with searching 
 
 
 
