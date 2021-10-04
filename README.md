@@ -1,9 +1,15 @@
 ### Armin Khoshnamak 🐙
 
-<p>
+
 [![Gmail Badge](https://img.shields.io/badge/-armin.khoshnamk@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:armin.khoshnamak@gmail.com)](mailto:armin.khoshnamak@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-armin%20khoshnamak-0072b1?style=flat&logo=Linkedin&logoColor=white&link=armin-khoshnamak)](https://www.linkedin.com/in/armin-khoshnamak-13b276195/) 
 </p>
+
+## My Skills
+[![github stats](https://github-readme-stats.vercel.app/api?username=arminnacl)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminnacl&layout=compact)](https://github.com/arminnacl/github-readme-stats)
+
+
 <!--
 **ArminNaCl/ArminNaCl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
