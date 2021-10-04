@@ -20,23 +20,16 @@ Basic Knowledge ,ERD, MongoDB, MySQL, POSTGRESQL
 Familiar With Tools and Base Like HTML,CSS,Javascript , Bootstrap and AJAX
 #### Other :
 - Network Fundamental , Linux(Debian and Main Commands) ,Git and Github, 
-	PHP and Laravel , 
+	PHP and Laravel , Design Patern
 #### Non Technical Skills:
 Curious, Fast-learner, Imaginative and good with searching 
 
 
 
-<!--
-**ArminNaCl/ArminNaCl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working Part Time in MAktab Sharif As Python/Django Instructor/Mentor
+- 🌱 I’m currently learning software engineering Fundamental to Improve Myself
+- 👯 I’m looking for Full time work as develper/Engineer
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 In my free times i like to watch movies play Games , walk and listen to Music 
+- ⚡ Live Fast - Love Hard 
 
