@@ -27,9 +27,10 @@ Curious, Fast-learner, Imaginative and good with searching
 
 ## About me:
 
-- 🔭 I’m currently working Part Time in MAktab Sharif As Python/Django Instructor/Mentor
+- 🔭 I’m currently working in ArianaLabs.io as A Backend Devloper
 - 🌱 I’m currently learning software engineering Fundamental to Improve Myself
-- 👯 I’m looking for Full time work as develper/Engineer
-- 🤔 I’m looking for help with ...
+- 🤔 Okey lets be honest im terible in writing a bio so just call me NaCl 
 - 😄 In my free times i like to watch movies play Games , walk and listen to Music 
+
+
 
