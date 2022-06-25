@@ -29,7 +29,7 @@ Curious, Fast-learner, Imaginative and good with searching
 
 - 🔭 I’m currently working in ArianaLabs.io as A Backend Devloper
 - 🌱 I’m currently learning software engineering Fundamental to Improve Myself
-- 🤔 Okey lets be honest im terible in writing a bio so just call me NaCl 
+- 🤔 Okey lets be honest im terrible in writing a bio so just call me NaCl 
 - 😄 In my free times i like to watch movies play Games , walk and listen to Music 
 
 
