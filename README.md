@@ -9,7 +9,7 @@
 [![github stats](https://github-readme-stats.vercel.app/api?username=arminnacl)](https://github.com/anuraghazra/github-readme-stats) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminnacl&layout=compact)](https://github.com/arminnacl/github-readme-stats)
 
-https://www.codewars.com/users/ArminNaCl/badges/small
+[![Code Wars](https://www.codewars.com/users/ArminNaCl/badges/small)]
 
 ## Skills
  #### Python :
