@@ -11,9 +11,9 @@
 
 ## Skills
  #### Python :
- OPP, Decorator, Algorithm Mapping, Design Patterns, Flask, unitest, Script
+ OPP, Decorator, Algorithm Mapping, Design Patterns, Flask, unitest, Script. FastAPI
 #### Django  :
-CBV, MVT, ORM, REST, DRF,
+CBV, MVT, ORM, REST, DRF, Signal, Celery
 #### Database :
 Basic Knowledge ,ERD, MongoDB, MySQL, POSTGRESQL
 #### FrontEnd : 
@@ -27,10 +27,11 @@ Curious, Fast-learner, Imaginative and good with searching
 
 ## About me:
 
-- 🔭 I’m currently working in ArianaLabs.io as A Backend Devloper
-- 🌱 I’m currently learning software engineering Fundamental to Improve Myself
+- 🧑‍💻 I’m currently working in ArianaLabs.io as A Software Developer
+- 🌱 I’m currently learning Ruby and Cloud.
 - 🤔 Okey lets be honest im terrible in writing a bio so just call me NaCl 
-- 😄 In my free times i like to watch movies play Games , walk and listen to Music 
+- 🤺 Usually, i enjoy solving coding challenges in [CodeWars](https://www.codewars.com/users/ArminNaCl) 
+
 
 
 
