@@ -12,28 +12,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminnacl&layout=compact)](https://github.com/arminnacl/github-readme-stats)
 
 
-## Skills
- #### Python :
- OPP, Decorator, Algorithm Mapping, Design Patterns, Flask, unitest, Script. FastAPI
-#### Django  :
-CBV, MVT, ORM, REST, DRF, Signal, Celery
-#### Database :
-Basic Knowledge ,ERD, MongoDB, MySQL, POSTGRESQL
-#### FrontEnd : 
-Familiar With Tools and Base Like HTML,CSS,Javascript , Bootstrap and AJAX
-#### Other :
-- Network Fundamental , Linux(Debian and Main Commands) ,Git and Github, 
-	PHP and Laravel , Design Patern
-#### Non Technical Skills:
-Curious, Fast-learner, Imaginative and good with searching 
+## About Me:
+"Hello, I'm Armin, and I'm passionate about technology, software development, and problem-solving. I'm currently in my final semester pursuing a Bachelor's degree in Computer Engineering(just 2 Exams Left), which has been a journey filled with exciting challenges and opportunities for growth.
 
+For over two years, I've been fortunate to be a part of the dynamic team at Arianalabs, where I've had the privilege of working on various projects and enhancing my skills. My role involves developing robust RESTful APIs and web applications, debugging and refactoring legacy codes, and devising effective ORM calls to optimize system performance. I thrive in an Agile and Scrum environment, adept at developing service management applications and working on multiple diverse projects concurrently. Prior to Arianalabs, I delved into freelancing and project work, and I've shared my knowledge by teaching programming at my university and a coding Bootcamp.
 
-## About me:
-
-- 🧑‍💻 I’m currently working in ArianaLabs.io as A Software Developer
-- 🌱 I’m currently learning Ruby and Cloud.
-- 🤔 Okey lets be honest im terrible in writing a bio so just call me NaCl 
-- 🤺 Usually, i enjoy solving coding challenges in [CodeWars](https://www.codewars.com/users/ArminNaCl) 
+In all my endeavors, I bring a curious and hardworking spirit to the table. I truly enjoy coding and am driven by the quest for the best solutions to enhance efficiency and realize ambitious goals. Let's connect and explore the endless possibilities in the world of technology together!"
 
 
 
